@@ -46,7 +46,9 @@ Following are the steps..
 
 * Adding a satellite map as well as separating out two different data sets into overlays that can be turned on and off independently.
 
+* Visualization looks something like the map below.
 
+![map2](https://user-images.githubusercontent.com/120197958/231180357-ffc9d5f2-6355-4ff2-9def-5c89ed495cfc.png)
 
 
 
